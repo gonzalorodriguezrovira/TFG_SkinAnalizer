@@ -1,0 +1,2 @@
+resolucion,version_modelo,epocas,lr,bias,dropout,val_auc_roc,val_auc_pr,val_precision,val_recall,val_F1
+512x512,B5,16,0.0001,0,0.4,0.945,0.91,0.85,0.86,0.855
