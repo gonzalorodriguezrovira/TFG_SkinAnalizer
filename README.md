@@ -1,6 +1,5 @@
 # TFG_SkinAnalizer
-Este repositorio contiene mi TFG, consiste en una aplicación en Python que mediante el uso de redes neuronales es capaz de determinar si una imagen dermatoscopica de la piel es benigna o maligna con una alta precisión.
-
+Este repositorio contiene mi TFG, consiste en una aplicación en Python que mediante el uso de redes neuronales es capaz de determinar si una imagen dermatoscopica de la piel es benigna o maligna con una alta precisión. Posteriormente ese modelo fue implantado en la aplicación SkinAnalyzer donde es mas sencillo de utilizar, simplemente introduciendo las imágenes dermatoscópicas a analizar y donde se vuelca un diagnostico mas visual
 ### Aplicación
 Contiene el codigo de la UI y la logica aplicación. No contiene la aplicación final debido a su gran peso.
 
